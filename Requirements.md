@@ -80,7 +80,7 @@ $$
 - Always include differentials (`\,dx`, `\,dt`, `\,du`), proper fractions (`\frac{a}{b}`), limits (`\lim_{x \to a}`), and explicit conditions (such as $n \neq -1$ or continuity/differentiability requirements).
 
 ### 3.4 Length & Tone
-- **Length**: ~150–250 words per card — concise enough to read on a phone screen in under a minute, yet complete enough for genuine conceptual understanding.
+- **Length**: ~250–450 words per card — concise enough to read on a phone screen in 1–2 minutes, yet complete enough for genuine conceptual understanding.
 - **Tone**: Clear, direct, encouraging, and student-centered. Explain the idea in plain language alongside the math.
 
 ---
@@ -119,7 +119,7 @@ $$
 | 15 | `15 - MVT.md` | Mean Value Theorem (instantaneous slope matches average slope) | ⚖️ |
 | 16 | `16 - LHopital.md` | L'Hôpital's Rule for $0/0$ and $\infty/\infty$ indeterminate forms | 🏥 |
 | 17 | `17 - Taylor Series.md` | Infinite polynomial expansion centered at $x = a$ | 🔭 |
-| 18 | `18 - Maclaurin.md` | Taylor series centered at $x = 0$ and classic expansions | 🎯 |
+| 18 | `18 - Maclaurin.md` | Taylor series centered at $x = 0$ and classic expansions | 🌐 |
 | 19 | `19 - Ratio Test.md` | Testing series convergence via the ratio $\lvert a_{n+1}/a_n \rvert$ | 📏 |
 | 20 | `20 - Improper Integral.md` | Infinite bounds, discontinuities, and the $p$-integral test | ♾️ |
 

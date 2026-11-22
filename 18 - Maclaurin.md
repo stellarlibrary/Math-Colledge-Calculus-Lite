@@ -1,4 +1,4 @@
-# 🎯 Maclaurin Series
+# 🌐 Maclaurin Series
 
 *A Taylor series centered at $a = 0$—giving the four essential power series expansions every calculus student should know.*
 
